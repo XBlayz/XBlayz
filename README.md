@@ -2,7 +2,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=XBlayz&show_icons=true&theme=radical" />
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XBlayz&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XBlayz&layout=compact" />
 
 ## My setup:
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
