@@ -22,6 +22,7 @@
     <tr>
       <td class="pcpp-part-list-type">Motherboard</td>
       <td class="pcpp-part-list-item"><a href="https://it.pcpartpicker.com/product/B698TW/asus-strix-x370-f-gaming-atx-am4-motherboard-strix-x370-f-gaming">Asus STRIX X370-F GAMING ATX AM4 Motherboard</a></td>
+      </td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Memory</td>
@@ -30,6 +31,10 @@
     <tr>
       <td class="pcpp-part-list-type">Storage</td>
       <td class="pcpp-part-list-item"><a href="https://it.pcpartpicker.com/product/NhgzK8/western-digital-blue-250gb-25-solid-state-drive-wds250g2b0a">Western Digital Blue 250 GB 2.5" Solid State Drive</a></td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://it.pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam">Samsung 970 Evo Plus 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Storage</td>
@@ -49,7 +54,6 @@
     </tr>
   </tbody>
 </table>
-<a href="https://it.pcpartpicker.com/list/kCMBRv">Part list - (PCPartPicker)</a>
 
 ---
 
