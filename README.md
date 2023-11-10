@@ -29,15 +29,15 @@
       <td class="pcpp-part-list-item"><a href="https://it.pcpartpicker.com/product/nyyV3C/gskill-trident-z-rgb-16gb-2-x-8gb-ddr4-3200-memory-f4-3200c16d-16gtzrx">G.Skill Trident Z RGB 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory</a></td>
     </tr>
     <tr>
-      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-type">Storage (1)</td>
       <td class="pcpp-part-list-item"><a href="https://it.pcpartpicker.com/product/NhgzK8/western-digital-blue-250gb-25-solid-state-drive-wds250g2b0a">Western Digital Blue 250 GB 2.5" Solid State Drive</a></td>
     </tr>
     <tr>
-      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-type">Storage (2)</td>
       <td class="pcpp-part-list-item"><a href="https://it.pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam">Samsung 970 Evo Plus 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive</a></td>
     </tr>
     <tr>
-      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-type">Storage (3)</td>
       <td class="pcpp-part-list-item"><a href="https://it.pcpartpicker.com/product/BcQG3C/seagate-barracuda-compute-2-tb-35-7200rpm-internal-hard-drive-st2000dmz08dm008">Seagate Barracuda Compute 2 TB 3.5" 7200 RPM Internal Hard Drive</a></td>
     </tr>
     <tr>
