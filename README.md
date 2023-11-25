@@ -63,9 +63,13 @@
 ![Vivado](https://img.shields.io/badge/AMD-Vivado-%2388870d)
 ![SolidWorks](https://img.shields.io/badge/Dassault%20Syst%C3%A8mes-SolidWorks-%23eb2629)
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-%23173c5c)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/MCU-STM32-%233aaedf)
+![MoTeC](https://img.shields.io/badge/MoTeC-%23dc1615)
