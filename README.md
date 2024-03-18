@@ -1,8 +1,8 @@
 # Hi there, this is MY GitHub profile! ⭐
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=XBlayz&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=XBlayz&show_icons=true&theme=codeSTACKr" />
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XBlayz&layout=compact" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XBlayz&layout=donut&theme=codeSTACKr" />
 
 ## My setup:
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
@@ -55,15 +55,15 @@
   </tbody>
 </table>
 
+Laptop: [ASUS Vivobook Flip 14 TM420(AMD Ryzen™ 5000 Series)](https://www.asus.com/laptops/for-home/vivobook/vivobook-flip-14-tm420/)
+
 ---
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Simulink](https://img.shields.io/badge/MATLAB-Simulink-%23e86e05)
 ![Vivado](https://img.shields.io/badge/AMD-Vivado-%2388870d)
 ![SolidWorks](https://img.shields.io/badge/Dassault%20Syst%C3%A8mes-SolidWorks-%23eb2629)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
