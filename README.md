@@ -65,7 +65,8 @@ Laptop: [ASUS Vivobook Flip 14 TM420(AMD Ryzen™ 5000 Series)](https://www.asus
 ![SolidWorks](https://img.shields.io/badge/Dassault%20Syst%C3%A8mes-SolidWorks-%23eb2629)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-%23173c5c)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
